@@ -1,11 +1,11 @@
 {
   "id": "pocopico.vmxnet3",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/vmxnet3/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/qtsleng/rp-ext/master/vmxnet3/rpext-index.json",
   "info": {
     "name": "vmxnet3",
     "description": "Adds VMware vmxnet3 virtual NIC driver Support",
-    "author_url": "https://github.com/pocopico",
-    "packer_url": "https://github.com/pocopico/rp-ext/tree/main/vmxnet3",
+    "author_url": "https://github.com/qtsleng",
+    "packer_url": "https://github.com/qtsleng/rp-ext/tree/main/vmxnet3",
     "help_url": "<todo>"
   },
   "releases": {
@@ -62,7 +62,7 @@
     "ds920p_42962": "https://raw.githubusercontent.com/pocopico/rp-ext/master/vmxnet3/releases/ds920p_42218.json",
     "ds920p_42218": "https://raw.githubusercontent.com/pocopico/rp-ext/master/vmxnet3/releases/ds920p_42218.json",
     "ds920p_42661": "https://raw.githubusercontent.com/pocopico/rp-ext/master/vmxnet3/releases/ds920p_42218.json",
-    "ds720p_42661": "https://raw.githubusercontent.com/pocopico/rp-ext/master/vmxnet3/releases/ds920p_42218.json",
+    "ds720p_42661": "https://raw.githubusercontent.com/qtsleng/rp-ext/master/vmxnet3/releases/ds920p_42218.json",
     "ds923p_42962": "https://raw.githubusercontent.com/pocopico/rp-ext/master/vmxnet3/releases/ds923p_42218.json"
   }
 }
